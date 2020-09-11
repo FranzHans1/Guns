@@ -1,0 +1,6 @@
+name: Guns
+version: 1.8
+main: me.Sadown.Guns.Main
+
+commands:
+  SuperGun:
